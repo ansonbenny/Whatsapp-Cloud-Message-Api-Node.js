@@ -2,12 +2,12 @@
 This api is used to message to whatsapp number using node.js
 
 This module create based on meta whatsapp documentation
-<a href="https://developers.facebook.com/docs/whatsapp/cloud-api/get-started"><h4>DOCUMENTATION</h4></a>
+<a href="https://developers.facebook.com/docs/whatsapp/cloud-api/get-started" target="_blank"><h4>DOCUMENTATION</h4></a>
 
 <h5>Requirements</h5>
 
-<a href="https://expressjs.com/"><h6>Express JS</h6></a>
-<a href="https://www.npmjs.com/package/axios"><h6>Axios</h6></a>
+<a href="https://expressjs.com/" target="_blank"><h6>Express JS</h6></a>
+<a href="https://www.npmjs.com/package/axios" target="_blank"><h6>Axios</h6></a>
 
 <h6>Enter Commad On Terminal For Install All Package</h6>
 npm install 
