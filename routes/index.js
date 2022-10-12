@@ -19,7 +19,7 @@ router.get('/', (req, res) => {
   var token = TOKEN
   whatsappMsg(token,data,version,accId).then((data)=>{
     console.log(data)
-  }).catch(()=>{
+  }).catch((err)=>{
     console.log(err)
   })
 })
