@@ -16,7 +16,6 @@ npm install
 
 For Sent Whatsapp Message From Node.js Change Following Data In routers/index.js
 
-<p>
 var data = {
     messaging_product: "whatsapp",
     to: NUMBER_ICLUDE_COUNTRY_CODE,
@@ -28,13 +27,8 @@ var data = {
       }
     }
   }
-    <br>
   var version = API_VERSION //v14.0
-    <br>
   var accId = WHATSAPP_BUSINESS_ACCOUNT_ID
-    <br>
   var token = TOKEN
-    <br>
-  </p>
   
   <h6>npm start Enter This Command On Terminal For Start</h6>
